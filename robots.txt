@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iwigenis.github.io/sitemap.html.gz
+Sitemap: https://iwigenis.github.io/app/sitemap.html.gz
+Sitemap: https://iwigenis.github.io/assets/sitemap.html.gz
+Sitemap: https://iwigenis.github.io/css/sitemap.html.gz
+Sitemap: https://iwigenis.github.io/includes/sitemap.html.gz
+Sitemap: https://iwigenis.github.io/item/sitemap.html.gz
+Sitemap: https://iwigenis.github.io/src/sitemap.html.gz
